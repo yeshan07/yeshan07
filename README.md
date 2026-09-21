@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeshan Siriwardana</h1>
-<h3 align="center">Software Engineering Undergraduate at SLTC Research University</h3>
+<h3 align="center">Software Engineering Graduate | Full-Stack Developer | AI & Computer Vision Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshan07&label=Profile%20views&color=0e75b6&style=flat" alt="yeshan07" /> </p>
 
