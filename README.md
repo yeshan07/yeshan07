@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshan07&label=Profile%20views&color=0e75b6&style=flat" alt="yeshan07" /> </p>
 
-- 📫 How to reach me **yeshans.it@gmail.com**
+- 💻 Interested in Full-Stack Development
+- 🤖 Interested in Artificial Intelligence & Computer Vision
+- 🌱 Continuously improving my software engineering skills
+- 🚀 Building real-world projects to strengthen my development experience
+- 📫 Reach me at: yeshans.it@gmail.com
 
 - ⚡ Fun fact **Call me at Shan**
 
