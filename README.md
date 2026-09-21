@@ -117,10 +117,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+<h3 align="left">GitHub Stats:</h3>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshan07&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshan07&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5"
     alt="Yeshan's Top Languages"
   />
 </p>
-
